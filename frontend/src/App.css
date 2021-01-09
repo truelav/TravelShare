@@ -1,3 +1,7 @@
+body {
+  background-color: gray;
+}
+
 main {
   margin-top: 5rem;
 }
@@ -5,4 +9,8 @@ main {
 .loader {
   text-align: center;
   font-size: 2rem;
+}
+
+li {
+  list-style-type: none;
 }
